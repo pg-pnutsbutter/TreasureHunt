@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FFXIV Aquapolis Maps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Copyright</string>
+
+    <!-- グリダニア -->
+    <string name="gridania_central">Central Shroud</string>
+    <string name="gridania_eastern">East Shroud</string>
+    <string name="gridania_south">South Shroud</string>
+    <string name="gridania_north">North Shroud</string>
+
+    <!-- リムサ -->
+    <string name="limsa_middle">Middle La Noscea</string>
+    <string name="limsa_eastern">Eastern La Noscea</string>
+    <string name="limsa_western">Western La Noscea</string>
+    <string name="limsa_lower">Lower La Noscea</string>
+    <string name="limsa_upper">Upper La Noscea</string>
+    <string name="limsa_outer">Outer La Noscea</string>
+
+    <!-- ウルダハ -->
+    <string name="uldah_central">Central Thanalan</string>
+    <string name="uldah_eastern">Eastern Thanalan</string>
+    <string name="uldah_western">Western Thanalan</string>
+    <string name="uldah_southern">Southern Thanalan</string>
+    <string name="uldah_northern">Northern Thanalan</string>
+
+    <!-- クルザス -->
+    <string name="coerthas_central">Coerthas Central Highlands</string>
+    <string name="coerthas_western">Coerthas Western Highlands</string>
+
+    <!-- モードゥナ -->
+    <string name="mor_dhona">Mor Dhona</string>
+
+    <!-- アバラシア雲海 -->
+    <string name="abalathia">The Sea of Clouds</string>
+
+    <!-- ドラバニア雲海 -->
+    <string name="dravania_forelands">The Dravanian Forelands</string>
+    <string name="dravania_mists">The Churning Mists</string>
+    <string name="dravania_hinterlands">The Dravanian Hinterlands</string>
+
+    <!-- アジス・ラー -->
+    <string name="azys_lla">Azys Lla</string>
+</resources>

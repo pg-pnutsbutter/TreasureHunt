@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FFXIV Aquapolis Maps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Copyright</string>
+
+    <!-- グリだニア -->
+    <string name="gridania_central">中央森林</string>
+    <string name="gridania_eastern">東部森林</string>
+    <string name="gridania_south">南部森林</string>
+    <string name="gridania_north">北部森林</string>
+
+    <!-- リムサ -->
+    <string name="limsa_middle">中央ラノシア</string>
+    <string name="limsa_eastern">東ラノシア</string>
+    <string name="limsa_western">西ラノシア</string>
+    <string name="limsa_lower">低地ラノシア</string>
+    <string name="limsa_upper">高地ラノシア</string>
+    <string name="limsa_outer">外地ラノシア</string>
+
+    <!-- ウルダハ -->
+    <string name="uldah_central">中央ザナラーン</string>
+    <string name="uldah_eastern">東ザナラーン</string>
+    <string name="uldah_western">西ザナラーン</string>
+    <string name="uldah_southern">南ザナラーン</string>
+    <string name="uldah_northern">北ザナラーン</string>
+
+    <!-- クルザス -->
+    <string name="coerthas_central">クルザス中央高地</string>
+    <string name="coerthas_western">クルザス西部高地</string>
+
+    <!-- モードゥナ -->
+    <string name="mor_dhona">モードゥナ</string>
+
+    <!-- アバラシア雲海 -->
+    <string name="abalathia">アバラシア雲海</string>
+
+    <!-- ドラバニア雲海 -->
+    <string name="dravania_forelands">高地ドラヴァニア</string>
+    <string name="dravania_mists">ドラヴァニア雲海</string>
+    <string name="dravania_hinterlands">低地ドラヴァニア</string>
+
+    <!-- アジス・ラー -->
+    <string name="azys_lla">アジス・ラー</string>
+</resources>

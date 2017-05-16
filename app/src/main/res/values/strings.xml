@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">FFXIV Aquapolis Maps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Copyright</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- グリダニア -->
+    <string name="gridania_central">Central Gridania</string>
+    <string name="gridania_eastern">Eastern Gridania</string>
+    <string name="gridania_south">South Gridania</string>
+    <string name="gridania_north">North Gridania</string>
+
+    <!-- リムサ -->
+    <string name="limsa_middle">Middle La Noscea</string>
+    <string name="limsa_eastern">Eastern La Noscea</string>
+    <string name="limsa_western">Western La Noscea</string>
+    <string name="limsa_lower">Lower La Noscea</string>
+    <string name="limsa_upper">Upper La Noscea</string>
+    <string name="limsa_outer">Outer La Noscea</string>
+
+    <!-- ウルダハ -->
+    <string name="uldah_central">Central Thanalan</string>
+    <string name="uldah_eastern">Eastern Thanalan</string>
+    <string name="uldah_western">Western Thanalan</string>
+    <string name="uldah_southern">Southern Thanalan</string>
+    <string name="uldah_northern">Northern Thanalan</string>
+
+    <!-- クルザス -->
+    <string name="coerthas_central">Coerthas Central Highlands</string>
+    <string name="coerthas_western">Coerthas Western Highlands</string>
+
+    <!-- モードゥナ -->
+    <string name="mor_dhona">Mor Dhona</string>
+
+    <!-- アバラシア雲海 -->
+    <string name="abalathia">The Sea of Clouds</string>
+
+    <!-- ドラバニア雲海 -->
+    <!--
+        高地ドラヴァニア	The Dravanian Forelands
+        ドラヴァニア雲海	The Churning Mists
+        低地ドラヴァニア	The Dravanian Hinterlands
+    -->
+    <string name="dravania_forelands">The Dravanian Forelands</string>
+    <string name="dravania_mists">The Churning Mists</string>
+    <string name="dravania_hinterlands">The Dravanian Hinterlands</string>
+
+    <!-- アジス・ラー -->
+    <string name="azys_lla">Azys Lla</string>
+
+    <!-- AdMob ID -->
+    <!--test ID-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="copyright_title">Copyright</string>
+    <string name="copyright_body">記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。\nCopyright (C) 2010 - 2017 SQUARE ENIX CO., LTD. All Rights Reserved.</string>
+    <string name="copyright_ok">OK</string>
+</resources>

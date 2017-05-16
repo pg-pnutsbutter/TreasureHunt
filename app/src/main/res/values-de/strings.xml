@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FFXIV Aquapolis Karte</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Copyright</string>
+
+    <!-- グリだニア -->
+    <string name="gridania_central">Tiefer Wald</string>
+    <string name="gridania_eastern">Ostwald</string>
+    <string name="gridania_south">Südwald</string>
+    <string name="gridania_north">Nordwald</string>
+
+    <!-- リムサ -->
+    <string name="limsa_middle">Zentrales La Noscea</string>
+    <string name="limsa_eastern">Östliches La Noscea</string>
+    <string name="limsa_western">Westliches La Noscea</string>
+    <string name="limsa_lower">Unteres La Noscea</string>
+    <string name="limsa_upper">Oberes La Noscea</string>
+    <string name="limsa_outer">Äußeres La Noscea</string>
+
+    <!-- ウルダハ -->
+    <string name="uldah_central">Zentrales Thanalan</string>
+    <string name="uldah_eastern">Östliches Thanalan</string>
+    <string name="uldah_western">Westliches Thanalan</string>
+    <string name="uldah_southern">Südliches Thanalan</string>
+    <string name="uldah_northern">Nördliches Thanalan</string>
+
+    <!-- クルザス -->
+    <string name="coerthas_central">Zentrales Hochland von Coerthas</string>
+    <string name="coerthas_western">Westliches Hochland von Coerthas</string>
+
+    <!-- モードゥナ -->
+    <string name="mor_dhona">Mor Dhona</string>
+
+    <!-- アバラシア雲海 -->
+    <string name="abalathia">Abalathisches Wolkenmeer</string>
+
+    <!-- ドラバニア雲海 -->
+    <string name="dravania_forelands">Dravanisches Vorland</string>
+    <string name="dravania_mists">Wallende Nebel</string>
+    <string name="dravania_hinterlands">Dravanisches Hinterland</string>
+
+    <!-- アジス・ラー -->
+    <string name="azys_lla">Azys Lla</string>
+</resources>

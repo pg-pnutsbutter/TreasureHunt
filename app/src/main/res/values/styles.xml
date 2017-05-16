@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:itemBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="CustomCirclePageIndicator">
+        <item name="centered">true</item>
+        <item name="fillColor">@color/circle_indicator</item> <!-- 動く○の色 -->
+        <item name="pageColor">@color/white</item> <!-- 動かない◯の色 -->
+        <item name="strokeColor">@color/transparent</item> <!-- pageColorの周りの色 -->
+        <item name="radius">6dp</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#457DD7</color>
+    <color name="colorPrimaryDark">#457DD7</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="windowBackground">#457DD7</color>
+    <color name="list_group_background">#757575</color>
+    <color name="list_item_background">#FFFFFF</color>
+    <color name="list_group_title">#FFFFFF</color>
+    <color name="list_item_title">#000000</color>
+    <color name="list_group_divider">#000000</color>
+
+    <color name="map_image_background">#FFFFFF</color>
+    <color name="map_position">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="lime">#E6EE9C</color>
+    <color name="orange">#FFCC80</color>
+    <color name="grey">#B0BEC5</color>
+    <color name="purple">#B39DDB</color>
+    <color name="pink">#F48FB1</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="circle_indicator">#D3A02A</color>
+    <color name="clear">#FF000000</color>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/layout_padding_default"
+    android:paddingTop="@dimen/layout_padding_default"
+    android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+    >
+
+    <TextView
+        android:id="@+id/expandedListItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/list_item_title"
+        android:textSize="@dimen/list_font_size"
+        android:layout_gravity="center_vertical"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_action_next_item"
+        android:layout_gravity="right|center_vertical"
+        />
+</FrameLayout>

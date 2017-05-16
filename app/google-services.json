@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "953311541718",
+    "firebase_url": "https://the-aquapolis-map-reader.firebaseio.com",
+    "project_id": "the-aquapolis-map-reader",
+    "storage_bucket": "the-aquapolis-map-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953311541718:android:0bbcca0dd46d74b8",
+        "android_client_info": {
+          "package_name": "jp.butter.pnuts.aquapolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953311541718-405imu6p4hsgjm3lclbpra8jlqrm3tvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXV3kVwv6rj0yLwPw1rLJngttdAuLsk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

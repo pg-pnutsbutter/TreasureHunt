@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FFXIV L\'Aquapole Carte</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Droits d\'auteur</string>
+
+    <!-- グリだニア -->
+    <string name="gridania_central">Forêt centrale</string>
+    <string name="gridania_eastern">Forêt de l\'est</string>
+    <string name="gridania_south">Forêt du sud</string>
+    <string name="gridania_north">Forêt du nord</string>
+
+    <!-- リムサ -->
+    <string name="limsa_middle">Noscea centrale</string>
+    <string name="limsa_eastern">Noscea orientale</string>
+    <string name="limsa_western">Noscea occidentale</string>
+    <string name="limsa_lower">Basse-Noscea</string>
+    <string name="limsa_upper">Haute-Noscea</string>
+    <string name="limsa_outer">Noscea extérieure</string>
+
+    <!-- ウルダハ -->
+    <string name="uldah_central">Thanalan central</string>
+    <string name="uldah_eastern">Thanalan oriental</string>
+    <string name="uldah_western">Thanalan occidental</string>
+    <string name="uldah_southern">Thanalan méridional</string>
+    <string name="uldah_northern">Thanalan septentrional</string>
+
+    <!-- クルザス -->
+    <string name="coerthas_central">Hautes terres du Coerthas central</string>
+    <string name="coerthas_western">Hautes terres du Coerthas occidental</string>
+
+    <!-- モードゥナ -->
+    <string name="mor_dhona">Mor Dhona</string>
+
+    <!-- アバラシア雲海 -->
+    <string name="abalathia">L\'Écume des cieux d\'Abalathia</string>
+
+    <!-- ドラバニア雲海 -->
+    <string name="dravania_forelands">Avant-pays dravanien</string>
+    <string name="dravania_mists">L\'Écume des cieux de Dravania</string>
+    <string name="dravania_hinterlands">Arrière-pays dravanien</string>
+
+    <!-- アジス・ラー -->
+    <string name="azys_lla">Azys Lla</string>
+</resources>
